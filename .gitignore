@@ -1,0 +1,14 @@
+.env
+node_modules
+dist
+yarn-error.log
+.DS_Store
+.vscode
+coverage
+jest.config.ts
+src/**/*.spec.ts
+src/**/*.test.ts
+src/**/*.spec.js
+src/**/*.test.js
+src/**/*.d.ts
+src/**/*.lock
